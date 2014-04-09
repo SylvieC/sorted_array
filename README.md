@@ -1,4 +1,5 @@
 # The SortedArray Lab
+WDI exercise at the beginning of the program
 
 In this lab you will build a SortedArray class.  Each instance of SortedArray will hold an array, and when you add elements to a SortedArray, they will automatically be placed into the internal array in sorted order.
 
